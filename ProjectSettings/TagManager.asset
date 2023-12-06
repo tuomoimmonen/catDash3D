@@ -3,19 +3,31 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Spike
+  - Obstacle
+  - Buff
+  - vCam
+  - SpeedBoots
+  - Cape
+  - Vacuum
+  - SpeedBoots2
+  - maleHats
+  - femaleHats
+  - Ground
+  - slideObstacle
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProsessing
+  - Fly
+  - Collectables
+  - Obstacles
+  - SlideObstacle
   - 
   - 
   - 
